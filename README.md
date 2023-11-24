@@ -3,7 +3,7 @@
 
 
 ## PERSONAL INFORMATION
-Rusia, Perm, MSK+2
+Russia, Perm, MSK+2
 ### gachurakov@edu.hse.ru
 [CV](https://github.com/gchurakov/CV/blob/main/cv_nlp.md)
 

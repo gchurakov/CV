@@ -5,8 +5,8 @@
 ## PERSONAL INFORMATION
 Russia, Perm, MSK+2
 ### gachurakov@edu.hse.ru
-[CV](https://github.com/gchurakov/CV/blob/main/cv_nlp.md)
-
+[CV in Russian](https://github.com/gchurakov/CV/blob/main/cv_nlp.md)
+[CV in English](https://github.com/gchurakov/CV/blob/main/cv_nlp_en.md)
 ## SOCIAL PROFILES
   - [Github](https://github.com/gchurakov)
   - [Habr Career](https://career.habr.com/gachurakov)

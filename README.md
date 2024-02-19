@@ -27,6 +27,7 @@ Russia, Perm, MSK+2
   - Data Science
   - Math
   - C++
+  - PyTorch
 
 ## WORK EXPERIENCE
   - August 2023 – Present
@@ -70,5 +71,10 @@ Russia, Perm, MSK+2
     _MLOps-Intro_, HSE
   - September 2023 – Present
     
-    _AI Safety Fundamentals_, BlueDot Impact
+  - _AI Safety Fundamentals_, BlueDot Impact
+
+  - _Deep Learning School_ CV, MIPT
+
+
+  - _Deep Learning School_ NLP, MIPT
 

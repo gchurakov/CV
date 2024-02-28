@@ -1,4 +1,4 @@
-# Deep Learning Engineer
+# [Deep Learning Engineer](https://github.com/gchurakov/cv)
 # Grigorii Churakov
 # Contact me: gachurakov@edu.hse.ru
 ## PERSONAL INFORMATION
@@ -37,15 +37,15 @@ Russia, Perm, MSK+2
     
     _Python course assistant_ at IE Votyakov Aleksander Romanovich, Moscow
 
-  Course level: python beginer -> junior web-developer
-
-
-  Tasks:
-  - Summarizing lessons, 
-  - preparation extra-materials lists
-  - Code-reviewing students homework's and qa
-
-[Link to site](https://votyakov.com/programming-after-school)
+    Course level: python beginer -> junior web-developer
+  
+  
+    Tasks:
+    - Summarizing lessons, 
+    - preparation extra-materials lists
+    - Code-reviewing students homework's and qa
+  
+  [Link to site](https://votyakov.com/programming-after-school)
 
 
 

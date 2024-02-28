@@ -1,6 +1,6 @@
-# ML Engineer
+# Deep Learning Engineer
 # Grigorii Churakov
-# Contact me : gachurakov@edu.hse.ru
+# Contact me: gachurakov@edu.hse.ru
 ## PERSONAL INFORMATION
 Russia, Perm, MSK+2
 - [CV](https://github.com/gchurakov/CV/blob/main/cv_nlp.md)
@@ -9,7 +9,7 @@ Russia, Perm, MSK+2
   - [Github](https://github.com/gchurakov)
   - [Habr Career](https://career.habr.com/gachurakov)
   - [Telegram](t.me/gachurakov)
-  - [Head Hunter](hh.ru)
+  - [Head Hunter](https://perm.hh.ru/resume/28e48f6eff0c27d87d0039ed1f664869447250)
 
 ## LANGUAGES
   ★★★★★ Russian

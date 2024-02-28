@@ -1,27 +1,49 @@
-Hello! Thank's taking the time to consider my candidature. 
-I would like to tell you a bit more about myself, I am a student of NIU HSE-Perm Software Engineering 3rd year,
-within the framework of my studies at the university I am engaged in improving my hard and soft skills. 
-During my studies, I took part in many extracurricular activities as an organiser, 
-I have skills and experience in negotiation, team management 
-(I hold the position of the chairman of the student council), creative trainings at project schools. I speak English at B2 level.
+## Current Professional Interests:
+- Deep learning, Security of AI systems, Alignment
+- Industrial Development
+- NLP
+- Product development, participating in project activities, influencing results
 
-As for professional skills: I encountered word processing at school, in 10-11th grade I attended 
-a class on artificial intelligence, my classmates and I learnt the basics of DS/ML/DL 
-(got acquainted with python syntax, learnt ways to visualise data, trained simple models, 
-worked with popular datasets and tasks), then we moved on to more complex tasks, my team built a map of the work "The Master and Margarita" bby Bulgakov, 
-in the solution we used transfomers, RuBERT (from DeepPavlov) to search for named entities, the complexity of the task was also that would understand - 
-the real location is described in the text or not. Now I am studying for a minor: Neural Network Technologies. 
-I transferred to it from minor : Applied Mathematics after 3 semesters (NS minor is much more interesting to me). 
-We study text processing, signal processing, image processing, touch on different technologies and concepts, 
-I'll tell you about a couple of the most interesting ones I've done: transfer learning (image classification), GAN (sinusoid generation).
 
-At the moment, I'm doing NLP research: translation systems often don't take into account the peculiarities of languages,
-it is not an easy task to build the word order of a sentence taking into account the rules and language habits of native speakers.
-Also, in conjunction with this research, I am taking an online course AI Safety Fundamentals, I
-believe that the problem of understanding AI systems and the reasoning behind their decision making is becoming a higher priority 
-for development at the moment, and the further it goes, the more acute the issue will become.
+## Hobbies:
+- Weekend hikes with friends
+- Half Marathon
+- Powerlifting
+- Reading science fiction !!!
 
-In my free time I am preparing for a half-marathon, training in the gym, reading fiction, interested in technology, 
-repairing home appliances, laptops, listening to techno, meeting interesting people.
 
-Thank you for your attention! Churakov G.A.
+## 10 year plan:
+- PhD in Computer Science
+- IT-startup
+- Marathon 2:20:00
+
+
+## National Research University Higher School of Economics:
+
+#### Extracurricular activities: 
+(I think this is a cool platform for personal experimentation and development, e.g. in teamwork and leadership, so I tell you about what I've been doing)
+- student council leadership
+- team projects ([TTT](https://vk.com/ttthse), [SOS](https://vk.com/sos2hse), [SAWALK](https://vk.com/sawalk_hse_perm)))
+
+#### Study:
+Studied various interesting subjects, I am studying for an OP Software Engineering, listened to cycles of disciplines in:
+- Mathematics (Linear Algebra (+Clifford algebra theory), Analysis (+Differential/Integral calculus), Probability Theory and Statistics), Discrete Mathematics
+- Programming (programming, programming paradigms, algorithms and data structures, databases)
+- Quality Assurance (introduction to software engineering, quality assurance and testing, requirements engineering and analysis)
+- Data Analysis (mathematical methods of data analysis, statistics)
+- **ML / DL** (Machine Learning, Neural Networks, NLP, CV)
+ - **Projects** [(examples)](https://github.com/gchurakov/steps2buildAI)
+ - NER retrieval of real locations in the text "The Master and Margarita" and mapping it to a map
+ - Introduction to GAN, training
+ - Introduction to (Deep-)Rainforcement Learning
+ - Diffusion model training
+ - Transfer Learning text generation
+ - Coursework: Seq2Seq - extracting skeletal structure of text in Russian language
+ 
+
+## Careers:
+
+ - Programming After School Course Mentor
+
+ Python testing, self-development, learning new development practices, working with Github, deepening understanding of Python, working with other people's code.
+  

@@ -5,6 +5,8 @@
 Russia, Perm, MSK+2
 - [CV](https://github.com/gchurakov/CV/blob/main/cv_nlp.md)
 - [CV(Eng)](https://github.com/gchurakov/CV/blob/main/cv_nlp_en.md)
+- [Resume in PDF](https://github.com/gchurakov/CV/files/14447826/CV___Harvard_like.pdf)
+  
 ## SOCIAL PROFILES
   - [Github](https://github.com/gchurakov)
   - [Habr Career](https://career.habr.com/gachurakov)

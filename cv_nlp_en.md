@@ -9,13 +9,7 @@
 - Weekend hikes with friends
 - Half Marathon
 - Powerlifting
-- Reading science fiction !!!
-
-
-## 10 year plan:
-- PhD in Computer Science
-- IT-startup
-- Marathon 2:20:00
+- Reading science fiction !!
 
 
 ## National Research University Higher School of Economics:
